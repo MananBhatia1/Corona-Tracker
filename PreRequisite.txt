@@ -1,0 +1,12 @@
+# To Scrap the Data
+   Worldometer.com
+# For Beautiful Scoup or to pretify the Scrap Data
+  bs4
+# To get notification
+  plyer
+# To arrange the Data
+  Pandas
+# To send request to url which you will give by worldometer
+  requests
+# To make a GUI Application
+  Tkinter
